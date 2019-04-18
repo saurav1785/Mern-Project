@@ -1,0 +1,48 @@
+.parallex-first {
+    height: 1000px;
+    padding-top: 20px;
+}
+
+.quote-content {
+    height: 60px;
+    background: #ffcb0c;
+    color: black;
+    font-size: 30px;
+    margin-top: -40px;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+.about-content {
+    background: rgb(235, 239, 241);
+    padding: 20px;
+}
+
+.about-content p {
+    margin: 50px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.benefits {
+    text-align: center;
+}
+
+.services {
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    flex-basis: 20%;
+}
+
+.contact {
+    background: black;
+    opacity: 0.8;
+    color: white;
+    height: 200px;
+}
